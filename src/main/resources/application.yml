@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/howardem/pbs-config.git
+          uri: https://github.com/howardem/cns-config.git
           default-label: main
           clone-on-start: true
           force-pull: true
